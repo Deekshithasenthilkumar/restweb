@@ -543,12 +543,13 @@ style-contact.css
 }
 ```
 
-## RESULT: 
-The program for designing software company website using HTML and CSS is completed successfully.
-
 
 ## OUTPUT:
-![Uploading Screenshot (44).png…]()
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/45982c3a-163d-4382-870a-ea323044d4b6" />
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/274c0a79-2795-4f60-9875-d90d5e50768d" />
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/3f883d18-1afb-459e-b0a3-8c4d4d1d13e4" />
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/0ddb7e2a-8950-4968-b727-e0922708b8e9" />
+
 
 
 ## RESULT:
